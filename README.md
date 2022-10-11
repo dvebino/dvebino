@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Huang</h1>
 <h3 align="center">NYC Software Developer / Full Stack Developer</h3>
 
+- 😀 Pronouns: He/Him
 - 🌱 I’m currently learning **Next.js, Django, and Python**
 - 📫 How to reach me **dhuang2495@gmail.com**
 
