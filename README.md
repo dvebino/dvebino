@@ -2,8 +2,13 @@
 <h3 align="center">NYC Software Developer / Full Stack Developer</h3>
 
 - 😀 Pronouns: He/Him
-- 🌱 I’m currently learning **Next.js, Django, and Python**
+- 🌱 I’m currently learning **SwiftUI**
 - 📫 How to reach me **dhuang2495@gmail.com**
+- 🏀 **Basketball Fan** 
+
+- About Me: I'm a Full Stack Developer with experience in developing and deploying web applications using a variety of programming languages and frameworks. I have a strong understanding of front-end technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. With a passion for problem-solving and a drive to continuously learn and improve, I am confident in my ability to deliver high-quality, effective, and scalable solutions for any project. I am excited to bring my skills and expertise to a challenging and dynamic work environment where I can continue to grow and make a positive impact.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
