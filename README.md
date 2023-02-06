@@ -6,14 +6,15 @@
 - 📫 How to reach me **dhuang2495@gmail.com**
 - 🏀 **Basketball Fan** 
 
-- About Me: I'm a Full Stack Developer with experience in developing and deploying web applications using a variety of programming languages and frameworks. I have a strong understanding of front-end technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. With a passion for problem-solving and a drive to continuously learn and improve, I am confident in my ability to deliver high-quality, effective, and scalable solutions for any project. I am excited to bring my skills and expertise to a challenging and dynamic work environment where I can continue to grow and make a positive impact.
+<h3 align="left"><b>About Me:</b></h3>
+I'm a Full Stack Developer with experience in developing and deploying web applications using a variety of programming languages and frameworks. I have a strong understanding of front-end technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. With a passion for problem-solving and a drive to continuously learn and improve, I am confident in my ability to deliver high-quality, effective, and scalable solutions for any project. I am excited to bring my skills and expertise to a challenging and dynamic work environment where I can continue to grow and make a positive impact.
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhuang24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhuang24" height="30" width="40" /></a>
-</p>
+</p> 
 
 
 # 💻 Tech Stack:
